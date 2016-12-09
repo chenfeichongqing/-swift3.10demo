@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8ad7a1e4-d245-4f8c-a8c5-1a570503e5db++2968",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "8ad7a1e4-d245-4f8c-a8c5-1a570503e5db++2968" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8ad7a1e4-d245-4f8c-a8c5-1a570503e5db++2968" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C8C50856-97B5-4E5A-8BD4-A9B1ADD05D21",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8ad7a1e4-d245-4f8c-a8c5-1a570503e5db++2968" : "vector\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BMKSwiftDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iphone\/BMKSwiftDemo\/BMKSwiftDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.baidu.com\/app\/search\/lbs-mobile",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8ad7a1e4-d245-4f8c-a8c5-1a570503e5db++2968"
+    }
+  ]
+}
